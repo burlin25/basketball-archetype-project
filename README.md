@@ -12,3 +12,13 @@ Bars show the difference in rotation share in percentage points. The diamond sho
 - [Stretch-big comparison at both shooting-volume cutoffs](pilot_stretch_big_comparison.csv)
 - [Shared archetype rubric](Archetype%20Rubric.md)
 - [Data sources and reproduction steps](Pilot%20Data.md)
+
+## Full historical study
+
+The historical files cover 20 NBA playoff fields and 19 NCAA Sweet 16 fields from 2006–07 through 2025–26. The 2020 NCAA tournament was canceled.
+
+- [Team-by-team rotation shares](historical_team_rotations.csv)
+- [Champions compared with the full field and final eight](historical_role_comparison.csv)
+- [Player archetypes, confidence ratings, and earned roles](historical_archetypes.csv)
+- [Postseason teams and outcomes](historical_postseason_teams.csv)
+- [Historical data sources and reproduction steps](Historical%20Data.md)

@@ -7,7 +7,7 @@ from pathlib import Path
 from statistics import mean
 
 from assign_pilot_roles import BIGS
-from match_pilot_rosters import SWEET_SIXTEEN_GAMES, read_rows
+from match_pilot_rosters import read_rows, sweet_sixteen_games
 
 CHAMPIONS = {(2007, "NBA"): "1610612759", (2026, "NBA"): "1610612752",
              (2007, "NCAA"): "57", (2026, "NCAA"): "130"}
@@ -19,8 +19,9 @@ def final_eight(folder, year, league):
         teams = {r["team_id"] for r in rows
                  if r["season_type_id"] == "4" and r["game_id"][7:8] == "2"}
     else:
+        game_ids = sweet_sixteen_games(folder, year)
         rows = read_rows(folder / f"player_box_{year}.csv")
-        teams = {r["team_id"] for r in rows if r["game_id"] in SWEET_SIXTEEN_GAMES[year]
+        teams = {r["team_id"] for r in rows if r["game_id"] in game_ids
                  and r["team_winner"].lower() == "true"}
     if len(teams) != 8:
         raise ValueError(f"Expected eight advancing teams for {league} {year}, found {len(teams)}")

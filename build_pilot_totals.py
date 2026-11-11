@@ -5,7 +5,14 @@ import csv
 from collections import Counter
 from pathlib import Path
 
-FIRST_NCAA_TOURNAMENT_GAME = {2007: "2007-03-13", 2026: "2026-03-17"}
+# March dates of the opening-round or First Four games.
+FIRST_NCAA_TOURNAMENT_GAME = {
+    year: f"{year}-03-{day:02d}" for year, day in {
+        2007: 13, 2008: 18, 2009: 17, 2010: 16, 2011: 15, 2012: 13,
+        2013: 19, 2014: 18, 2015: 17, 2016: 15, 2017: 14, 2018: 13,
+        2019: 19, 2021: 18, 2022: 15, 2023: 14, 2024: 19, 2025: 18, 2026: 17,
+    }.items()
+}
 STATS = ("points", "assists", "steals", "blocks", "turnovers",
          "field_goals_attempted", "free_throws_attempted")
 NBA_FIELDS = {"threes_made": "three_pointers_made",
@@ -71,13 +78,16 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("input_dir", type=Path)
     parser.add_argument("output", type=Path)
+    parser.add_argument("--historical", action="store_true")
     args = parser.parse_args()
     rows = []
-    for year in FIRST_NCAA_TOURNAMENT_GAME:
+    years = range(2007, 2027) if args.historical else (2007, 2026)
+    for year in years:
         rows.extend(totals(args.input_dir / f"player_boxscores_{year}.csv", "NBA", year))
-        rows.extend(totals(args.input_dir / f"player_box_{year}.csv", "NCAA", year))
+        if year in FIRST_NCAA_TOURNAMENT_GAME:
+            rows.extend(totals(args.input_dir / f"player_box_{year}.csv", "NCAA", year))
     with args.output.open("w", newline="", encoding="utf-8") as output:
-        writer = csv.writer(output)
+        writer = csv.writer(output, lineterminator="\n")
         writer.writerow(("season", "league", "team_id", "team", "player_id", "player",
                          "source_position", "games", "minutes", *STATS, *NBA_FIELDS))
         writer.writerows(rows)

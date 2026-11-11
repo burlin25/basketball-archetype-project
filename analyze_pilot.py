@@ -59,7 +59,7 @@ def main():
             raise ValueError("Use a different path for the output CSV")
         rows = list(analyze(args.players))
         with args.output.open("w", newline="", encoding="utf-8") as output:
-            writer = csv.writer(output)
+            writer = csv.writer(output, lineterminator="\n")
             writer.writerow(["season", "league", "team", "role", "main_minutes_pct",
                              "stricter_minutes_pct", "team_minutes_in_input"])
             writer.writerows(rows)

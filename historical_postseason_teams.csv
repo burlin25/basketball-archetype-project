@@ -1,0 +1,625 @@
+season,league,team_id,team,final_eight,on_court_champion
+2007,NBA,1610612741,Chicago Bulls,True,False
+2007,NBA,1610612739,Cleveland Cavaliers,True,False
+2007,NBA,1610612742,Dallas Mavericks,False,False
+2007,NBA,1610612743,Denver Nuggets,False,False
+2007,NBA,1610612765,Detroit Pistons,True,False
+2007,NBA,1610612744,Golden State Warriors,True,False
+2007,NBA,1610612745,Houston Rockets,False,False
+2007,NBA,1610612747,Los Angeles Lakers,False,False
+2007,NBA,1610612748,Miami Heat,False,False
+2007,NBA,1610612751,New Jersey Nets,True,False
+2007,NBA,1610612753,Orlando Magic,False,False
+2007,NBA,1610612756,Phoenix Suns,True,False
+2007,NBA,1610612759,San Antonio Spurs,True,True
+2007,NBA,1610612761,Toronto Raptors,False,False
+2007,NBA,1610612762,Utah Jazz,True,False
+2007,NBA,1610612764,Washington Wizards,False,False
+2007,NCAA,2086,Butler Bulldogs,False,False
+2007,NCAA,57,Florida Gators,True,True
+2007,NCAA,46,Georgetown Hoyas,True,False
+2007,NCAA,2305,Kansas Jayhawks,True,False
+2007,NCAA,235,Memphis Tigers,True,False
+2007,NCAA,153,North Carolina Tar Heels,True,False
+2007,NCAA,194,Ohio State Buckeyes,True,False
+2007,NCAA,2483,Oregon Ducks,True,False
+2007,NCAA,221,Pittsburgh Panthers,False,False
+2007,NCAA,79,Southern Illinois Salukis,False,False
+2007,NCAA,2633,Tennessee Volunteers,False,False
+2007,NCAA,245,Texas A&M Aggies,False,False
+2007,NCAA,26,UCLA Bruins,True,False
+2007,NCAA,2439,UNLV Rebels,False,False
+2007,NCAA,30,USC Trojans,False,False
+2007,NCAA,238,Vanderbilt Commodores,False,False
+2008,NBA,1610612737,Atlanta Hawks,False,False
+2008,NBA,1610612738,Boston Celtics,True,True
+2008,NBA,1610612739,Cleveland Cavaliers,True,False
+2008,NBA,1610612742,Dallas Mavericks,False,False
+2008,NBA,1610612743,Denver Nuggets,False,False
+2008,NBA,1610612765,Detroit Pistons,True,False
+2008,NBA,1610612745,Houston Rockets,False,False
+2008,NBA,1610612747,Los Angeles Lakers,True,False
+2008,NBA,1610612740,New Orleans Hornets,True,False
+2008,NBA,1610612753,Orlando Magic,True,False
+2008,NBA,1610612755,Philadelphia 76ers,False,False
+2008,NBA,1610612756,Phoenix Suns,False,False
+2008,NBA,1610612759,San Antonio Spurs,True,False
+2008,NBA,1610612761,Toronto Raptors,False,False
+2008,NBA,1610612762,Utah Jazz,True,False
+2008,NBA,1610612764,Washington Wizards,False,False
+2008,NCAA,2166,Davidson Wildcats,True,False
+2008,NCAA,2305,Kansas Jayhawks,True,True
+2008,NCAA,97,Louisville Cardinals,True,False
+2008,NCAA,235,Memphis Tigers,True,False
+2008,NCAA,127,Michigan State Spartans,False,False
+2008,NCAA,153,North Carolina Tar Heels,True,False
+2008,NCAA,24,Stanford Cardinal,False,False
+2008,NCAA,2633,Tennessee Volunteers,False,False
+2008,NCAA,251,Texas Longhorns,True,False
+2008,NCAA,26,UCLA Bruins,True,False
+2008,NCAA,222,Villanova Wildcats,False,False
+2008,NCAA,265,Washington State Cougars,False,False
+2008,NCAA,277,West Virginia Mountaineers,False,False
+2008,NCAA,98,Western Kentucky Hilltoppers,False,False
+2008,NCAA,275,Wisconsin Badgers,False,False
+2008,NCAA,2752,Xavier Musketeers,True,False
+2009,NBA,1610612737,Atlanta Hawks,True,False
+2009,NBA,1610612738,Boston Celtics,True,False
+2009,NBA,1610612741,Chicago Bulls,False,False
+2009,NBA,1610612739,Cleveland Cavaliers,True,False
+2009,NBA,1610612742,Dallas Mavericks,True,False
+2009,NBA,1610612743,Denver Nuggets,True,False
+2009,NBA,1610612765,Detroit Pistons,False,False
+2009,NBA,1610612745,Houston Rockets,True,False
+2009,NBA,1610612747,Los Angeles Lakers,True,True
+2009,NBA,1610612748,Miami Heat,False,False
+2009,NBA,1610612740,New Orleans Hornets,False,False
+2009,NBA,1610612753,Orlando Magic,True,False
+2009,NBA,1610612755,Philadelphia 76ers,False,False
+2009,NBA,1610612757,Portland Trail Blazers,False,False
+2009,NBA,1610612759,San Antonio Spurs,False,False
+2009,NBA,1610612762,Utah Jazz,False,False
+2009,NCAA,12,Arizona Wildcats,False,False
+2009,NCAA,150,Duke Blue Devils,False,False
+2009,NCAA,2250,Gonzaga Bulldogs,False,False
+2009,NCAA,2305,Kansas Jayhawks,False,False
+2009,NCAA,97,Louisville Cardinals,True,False
+2009,NCAA,235,Memphis Tigers,False,False
+2009,NCAA,127,Michigan State Spartans,True,False
+2009,NCAA,142,Missouri Tigers,True,False
+2009,NCAA,153,North Carolina Tar Heels,True,True
+2009,NCAA,201,Oklahoma Sooners,True,False
+2009,NCAA,221,Pittsburgh Panthers,True,False
+2009,NCAA,2509,Purdue Boilermakers,False,False
+2009,NCAA,183,Syracuse Orange,False,False
+2009,NCAA,41,UConn Huskies,True,False
+2009,NCAA,222,Villanova Wildcats,True,False
+2009,NCAA,2752,Xavier Musketeers,False,False
+2010,NBA,1610612737,Atlanta Hawks,True,False
+2010,NBA,1610612738,Boston Celtics,True,False
+2010,NBA,1610612766,Charlotte Bobcats,False,False
+2010,NBA,1610612741,Chicago Bulls,False,False
+2010,NBA,1610612739,Cleveland Cavaliers,True,False
+2010,NBA,1610612742,Dallas Mavericks,False,False
+2010,NBA,1610612743,Denver Nuggets,False,False
+2010,NBA,1610612747,Los Angeles Lakers,True,True
+2010,NBA,1610612748,Miami Heat,False,False
+2010,NBA,1610612749,Milwaukee Bucks,False,False
+2010,NBA,1610612760,Oklahoma City Thunder,False,False
+2010,NBA,1610612753,Orlando Magic,True,False
+2010,NBA,1610612756,Phoenix Suns,True,False
+2010,NBA,1610612757,Portland Trail Blazers,False,False
+2010,NBA,1610612759,San Antonio Spurs,True,False
+2010,NBA,1610612762,Utah Jazz,True,False
+2010,NCAA,239,Baylor Bears,True,False
+2010,NCAA,2086,Butler Bulldogs,True,False
+2010,NCAA,172,Cornell Big Red,False,False
+2010,NCAA,150,Duke Blue Devils,True,True
+2010,NCAA,2306,Kansas State Wildcats,True,False
+2010,NCAA,96,Kentucky Wildcats,True,False
+2010,NCAA,127,Michigan State Spartans,True,False
+2010,NCAA,2460,Northern Iowa Panthers,False,False
+2010,NCAA,194,Ohio State Buckeyes,False,False
+2010,NCAA,2509,Purdue Boilermakers,False,False
+2010,NCAA,2608,Saint Mary's Gaels,False,False
+2010,NCAA,183,Syracuse Orange,False,False
+2010,NCAA,2633,Tennessee Volunteers,True,False
+2010,NCAA,264,Washington Huskies,False,False
+2010,NCAA,277,West Virginia Mountaineers,True,False
+2010,NCAA,2752,Xavier Musketeers,False,False
+2011,NBA,1610612737,Atlanta Hawks,True,False
+2011,NBA,1610612738,Boston Celtics,True,False
+2011,NBA,1610612741,Chicago Bulls,True,False
+2011,NBA,1610612742,Dallas Mavericks,True,True
+2011,NBA,1610612743,Denver Nuggets,False,False
+2011,NBA,1610612754,Indiana Pacers,False,False
+2011,NBA,1610612747,Los Angeles Lakers,True,False
+2011,NBA,1610612763,Memphis Grizzlies,True,False
+2011,NBA,1610612748,Miami Heat,True,False
+2011,NBA,1610612740,New Orleans Hornets,False,False
+2011,NBA,1610612752,New York Knicks,False,False
+2011,NBA,1610612760,Oklahoma City Thunder,True,False
+2011,NBA,1610612753,Orlando Magic,False,False
+2011,NBA,1610612755,Philadelphia 76ers,False,False
+2011,NBA,1610612757,Portland Trail Blazers,False,False
+2011,NBA,1610612759,San Antonio Spurs,False,False
+2011,NCAA,12,Arizona Wildcats,True,False
+2011,NCAA,252,BYU Cougars,False,False
+2011,NCAA,2086,Butler Bulldogs,True,False
+2011,NCAA,150,Duke Blue Devils,False,False
+2011,NCAA,57,Florida Gators,True,False
+2011,NCAA,52,Florida State Seminoles,False,False
+2011,NCAA,2305,Kansas Jayhawks,True,False
+2011,NCAA,96,Kentucky Wildcats,True,False
+2011,NCAA,269,Marquette Golden Eagles,False,False
+2011,NCAA,153,North Carolina Tar Heels,True,False
+2011,NCAA,194,Ohio State Buckeyes,False,False
+2011,NCAA,257,Richmond Spiders,False,False
+2011,NCAA,21,San Diego State Aztecs,False,False
+2011,NCAA,41,UConn Huskies,True,True
+2011,NCAA,2670,VCU Rams,True,False
+2011,NCAA,275,Wisconsin Badgers,False,False
+2012,NBA,1610612737,Atlanta Hawks,False,False
+2012,NBA,1610612738,Boston Celtics,True,False
+2012,NBA,1610612741,Chicago Bulls,False,False
+2012,NBA,1610612742,Dallas Mavericks,False,False
+2012,NBA,1610612743,Denver Nuggets,False,False
+2012,NBA,1610612754,Indiana Pacers,True,False
+2012,NBA,1610612746,Los Angeles Clippers,True,False
+2012,NBA,1610612747,Los Angeles Lakers,True,False
+2012,NBA,1610612763,Memphis Grizzlies,False,False
+2012,NBA,1610612748,Miami Heat,True,True
+2012,NBA,1610612752,New York Knicks,False,False
+2012,NBA,1610612760,Oklahoma City Thunder,True,False
+2012,NBA,1610612753,Orlando Magic,False,False
+2012,NBA,1610612755,Philadelphia 76ers,True,False
+2012,NBA,1610612759,San Antonio Spurs,True,False
+2012,NBA,1610612762,Utah Jazz,False,False
+2012,NCAA,239,Baylor Bears,True,False
+2012,NCAA,2132,Cincinnati Bearcats,False,False
+2012,NCAA,57,Florida Gators,True,False
+2012,NCAA,84,Indiana Hoosiers,False,False
+2012,NCAA,2305,Kansas Jayhawks,True,False
+2012,NCAA,96,Kentucky Wildcats,True,True
+2012,NCAA,97,Louisville Cardinals,True,False
+2012,NCAA,269,Marquette Golden Eagles,False,False
+2012,NCAA,127,Michigan State Spartans,False,False
+2012,NCAA,152,NC State Wolfpack,False,False
+2012,NCAA,153,North Carolina Tar Heels,True,False
+2012,NCAA,195,Ohio Bobcats,False,False
+2012,NCAA,194,Ohio State Buckeyes,True,False
+2012,NCAA,183,Syracuse Orange,True,False
+2012,NCAA,275,Wisconsin Badgers,False,False
+2012,NCAA,2752,Xavier Musketeers,False,False
+2013,NBA,1610612737,Atlanta Hawks,False,False
+2013,NBA,1610612738,Boston Celtics,False,False
+2013,NBA,1610612751,Brooklyn Nets,False,False
+2013,NBA,1610612741,Chicago Bulls,True,False
+2013,NBA,1610612743,Denver Nuggets,False,False
+2013,NBA,1610612744,Golden State Warriors,True,False
+2013,NBA,1610612745,Houston Rockets,False,False
+2013,NBA,1610612754,Indiana Pacers,True,False
+2013,NBA,1610612746,Los Angeles Clippers,False,False
+2013,NBA,1610612747,Los Angeles Lakers,False,False
+2013,NBA,1610612763,Memphis Grizzlies,True,False
+2013,NBA,1610612748,Miami Heat,True,True
+2013,NBA,1610612749,Milwaukee Bucks,False,False
+2013,NBA,1610612752,New York Knicks,True,False
+2013,NBA,1610612760,Oklahoma City Thunder,True,False
+2013,NBA,1610612759,San Antonio Spurs,True,False
+2013,NCAA,12,Arizona Wildcats,False,False
+2013,NCAA,150,Duke Blue Devils,True,False
+2013,NCAA,57,Florida Gators,True,False
+2013,NCAA,526,Florida Gulf Coast Eagles,False,False
+2013,NCAA,84,Indiana Hoosiers,False,False
+2013,NCAA,2305,Kansas Jayhawks,False,False
+2013,NCAA,2325,La Salle Explorers,False,False
+2013,NCAA,97,Louisville Cardinals,True,True
+2013,NCAA,269,Marquette Golden Eagles,True,False
+2013,NCAA,2390,Miami Hurricanes,False,False
+2013,NCAA,127,Michigan State Spartans,False,False
+2013,NCAA,130,Michigan Wolverines,True,False
+2013,NCAA,194,Ohio State Buckeyes,True,False
+2013,NCAA,2483,Oregon Ducks,False,False
+2013,NCAA,183,Syracuse Orange,True,False
+2013,NCAA,2724,Wichita State Shockers,True,False
+2014,NBA,1610612737,Atlanta Hawks,False,False
+2014,NBA,1610612751,Brooklyn Nets,True,False
+2014,NBA,1610612766,Charlotte Bobcats,False,False
+2014,NBA,1610612741,Chicago Bulls,False,False
+2014,NBA,1610612742,Dallas Mavericks,False,False
+2014,NBA,1610612744,Golden State Warriors,False,False
+2014,NBA,1610612745,Houston Rockets,False,False
+2014,NBA,1610612754,Indiana Pacers,True,False
+2014,NBA,1610612746,Los Angeles Clippers,True,False
+2014,NBA,1610612763,Memphis Grizzlies,False,False
+2014,NBA,1610612748,Miami Heat,True,False
+2014,NBA,1610612760,Oklahoma City Thunder,True,False
+2014,NBA,1610612757,Portland Trail Blazers,True,False
+2014,NBA,1610612759,San Antonio Spurs,True,True
+2014,NBA,1610612761,Toronto Raptors,False,False
+2014,NBA,1610612764,Washington Wizards,True,False
+2014,NCAA,12,Arizona Wildcats,True,False
+2014,NCAA,239,Baylor Bears,False,False
+2014,NCAA,2168,Dayton Flyers,True,False
+2014,NCAA,57,Florida Gators,True,False
+2014,NCAA,66,Iowa State Cyclones,False,False
+2014,NCAA,96,Kentucky Wildcats,True,False
+2014,NCAA,97,Louisville Cardinals,False,False
+2014,NCAA,127,Michigan State Spartans,True,False
+2014,NCAA,130,Michigan Wolverines,True,False
+2014,NCAA,21,San Diego State Aztecs,False,False
+2014,NCAA,24,Stanford Cardinal,False,False
+2014,NCAA,2633,Tennessee Volunteers,False,False
+2014,NCAA,26,UCLA Bruins,False,False
+2014,NCAA,41,UConn Huskies,True,True
+2014,NCAA,258,Virginia Cavaliers,False,False
+2014,NCAA,275,Wisconsin Badgers,True,False
+2015,NBA,1610612737,Atlanta Hawks,True,False
+2015,NBA,1610612738,Boston Celtics,False,False
+2015,NBA,1610612751,Brooklyn Nets,False,False
+2015,NBA,1610612741,Chicago Bulls,True,False
+2015,NBA,1610612739,Cleveland Cavaliers,True,False
+2015,NBA,1610612742,Dallas Mavericks,False,False
+2015,NBA,1610612744,Golden State Warriors,True,True
+2015,NBA,1610612745,Houston Rockets,True,False
+2015,NBA,1610612746,Los Angeles Clippers,True,False
+2015,NBA,1610612763,Memphis Grizzlies,True,False
+2015,NBA,1610612749,Milwaukee Bucks,False,False
+2015,NBA,1610612740,New Orleans Pelicans,False,False
+2015,NBA,1610612757,Portland Trail Blazers,False,False
+2015,NBA,1610612759,San Antonio Spurs,False,False
+2015,NBA,1610612761,Toronto Raptors,False,False
+2015,NBA,1610612764,Washington Wizards,True,False
+2015,NCAA,12,Arizona Wildcats,True,False
+2015,NCAA,150,Duke Blue Devils,True,True
+2015,NCAA,2250,Gonzaga Bulldogs,True,False
+2015,NCAA,96,Kentucky Wildcats,True,False
+2015,NCAA,97,Louisville Cardinals,True,False
+2015,NCAA,127,Michigan State Spartans,True,False
+2015,NCAA,152,NC State Wolfpack,False,False
+2015,NCAA,153,North Carolina Tar Heels,False,False
+2015,NCAA,87,Notre Dame Fighting Irish,True,False
+2015,NCAA,201,Oklahoma Sooners,False,False
+2015,NCAA,26,UCLA Bruins,False,False
+2015,NCAA,254,Utah Utes,False,False
+2015,NCAA,277,West Virginia Mountaineers,False,False
+2015,NCAA,2724,Wichita State Shockers,False,False
+2015,NCAA,275,Wisconsin Badgers,True,False
+2015,NCAA,2752,Xavier Musketeers,False,False
+2016,NBA,1610612737,Atlanta Hawks,True,False
+2016,NBA,1610612738,Boston Celtics,False,False
+2016,NBA,1610612766,Charlotte Hornets,False,False
+2016,NBA,1610612739,Cleveland Cavaliers,True,True
+2016,NBA,1610612742,Dallas Mavericks,False,False
+2016,NBA,1610612765,Detroit Pistons,False,False
+2016,NBA,1610612744,Golden State Warriors,True,False
+2016,NBA,1610612745,Houston Rockets,False,False
+2016,NBA,1610612754,Indiana Pacers,False,False
+2016,NBA,1610612746,LA Clippers,False,False
+2016,NBA,1610612763,Memphis Grizzlies,False,False
+2016,NBA,1610612748,Miami Heat,True,False
+2016,NBA,1610612760,Oklahoma City Thunder,True,False
+2016,NBA,1610612757,Portland Trail Blazers,True,False
+2016,NBA,1610612759,San Antonio Spurs,True,False
+2016,NBA,1610612761,Toronto Raptors,True,False
+2016,NCAA,150,Duke Blue Devils,False,False
+2016,NCAA,2250,Gonzaga Bulldogs,False,False
+2016,NCAA,84,Indiana Hoosiers,False,False
+2016,NCAA,66,Iowa State Cyclones,False,False
+2016,NCAA,2305,Kansas Jayhawks,True,False
+2016,NCAA,120,Maryland Terrapins,False,False
+2016,NCAA,2390,Miami Hurricanes,False,False
+2016,NCAA,153,North Carolina Tar Heels,True,False
+2016,NCAA,87,Notre Dame Fighting Irish,True,False
+2016,NCAA,201,Oklahoma Sooners,True,False
+2016,NCAA,2483,Oregon Ducks,True,False
+2016,NCAA,183,Syracuse Orange,True,False
+2016,NCAA,245,Texas A&M Aggies,False,False
+2016,NCAA,222,Villanova Wildcats,True,True
+2016,NCAA,258,Virginia Cavaliers,True,False
+2016,NCAA,275,Wisconsin Badgers,False,False
+2017,NBA,1610612737,Atlanta Hawks,False,False
+2017,NBA,1610612738,Boston Celtics,True,False
+2017,NBA,1610612741,Chicago Bulls,False,False
+2017,NBA,1610612739,Cleveland Cavaliers,True,False
+2017,NBA,1610612744,Golden State Warriors,True,True
+2017,NBA,1610612745,Houston Rockets,True,False
+2017,NBA,1610612754,Indiana Pacers,False,False
+2017,NBA,1610612746,LA Clippers,False,False
+2017,NBA,1610612763,Memphis Grizzlies,False,False
+2017,NBA,1610612749,Milwaukee Bucks,False,False
+2017,NBA,1610612760,Oklahoma City Thunder,False,False
+2017,NBA,1610612757,Portland Trail Blazers,False,False
+2017,NBA,1610612759,San Antonio Spurs,True,False
+2017,NBA,1610612761,Toronto Raptors,True,False
+2017,NBA,1610612762,Utah Jazz,True,False
+2017,NBA,1610612764,Washington Wizards,True,False
+2017,NCAA,12,Arizona Wildcats,False,False
+2017,NCAA,239,Baylor Bears,False,False
+2017,NCAA,2086,Butler Bulldogs,False,False
+2017,NCAA,57,Florida Gators,True,False
+2017,NCAA,2250,Gonzaga Bulldogs,True,False
+2017,NCAA,2305,Kansas Jayhawks,True,False
+2017,NCAA,96,Kentucky Wildcats,True,False
+2017,NCAA,130,Michigan Wolverines,False,False
+2017,NCAA,153,North Carolina Tar Heels,True,True
+2017,NCAA,2483,Oregon Ducks,True,False
+2017,NCAA,2509,Purdue Boilermakers,False,False
+2017,NCAA,2579,South Carolina Gamecocks,True,False
+2017,NCAA,26,UCLA Bruins,False,False
+2017,NCAA,277,West Virginia Mountaineers,False,False
+2017,NCAA,275,Wisconsin Badgers,False,False
+2017,NCAA,2752,Xavier Musketeers,True,False
+2018,NBA,1610612738,Boston Celtics,True,False
+2018,NBA,1610612739,Cleveland Cavaliers,True,False
+2018,NBA,1610612744,Golden State Warriors,True,True
+2018,NBA,1610612745,Houston Rockets,True,False
+2018,NBA,1610612754,Indiana Pacers,False,False
+2018,NBA,1610612748,Miami Heat,False,False
+2018,NBA,1610612749,Milwaukee Bucks,False,False
+2018,NBA,1610612750,Minnesota Timberwolves,False,False
+2018,NBA,1610612740,New Orleans Pelicans,True,False
+2018,NBA,1610612760,Oklahoma City Thunder,False,False
+2018,NBA,1610612755,Philadelphia 76ers,True,False
+2018,NBA,1610612757,Portland Trail Blazers,False,False
+2018,NBA,1610612759,San Antonio Spurs,False,False
+2018,NBA,1610612761,Toronto Raptors,True,False
+2018,NBA,1610612762,Utah Jazz,True,False
+2018,NBA,1610612764,Washington Wizards,False,False
+2018,NCAA,228,Clemson Tigers,False,False
+2018,NCAA,150,Duke Blue Devils,True,False
+2018,NCAA,52,Florida State Seminoles,True,False
+2018,NCAA,2250,Gonzaga Bulldogs,False,False
+2018,NCAA,2305,Kansas Jayhawks,True,False
+2018,NCAA,2306,Kansas State Wildcats,True,False
+2018,NCAA,96,Kentucky Wildcats,False,False
+2018,NCAA,2350,Loyola Chicago Ramblers,True,False
+2018,NCAA,130,Michigan Wolverines,True,False
+2018,NCAA,2440,Nevada Wolf Pack,False,False
+2018,NCAA,2509,Purdue Boilermakers,False,False
+2018,NCAA,183,Syracuse Orange,False,False
+2018,NCAA,245,Texas A&M Aggies,False,False
+2018,NCAA,2641,Texas Tech Red Raiders,True,False
+2018,NCAA,222,Villanova Wildcats,True,True
+2018,NCAA,277,West Virginia Mountaineers,False,False
+2019,NBA,1610612738,Boston Celtics,True,False
+2019,NBA,1610612751,Brooklyn Nets,False,False
+2019,NBA,1610612743,Denver Nuggets,True,False
+2019,NBA,1610612765,Detroit Pistons,False,False
+2019,NBA,1610612744,Golden State Warriors,True,False
+2019,NBA,1610612745,Houston Rockets,True,False
+2019,NBA,1610612754,Indiana Pacers,False,False
+2019,NBA,1610612746,LA Clippers,False,False
+2019,NBA,1610612749,Milwaukee Bucks,True,False
+2019,NBA,1610612760,Oklahoma City Thunder,False,False
+2019,NBA,1610612753,Orlando Magic,False,False
+2019,NBA,1610612755,Philadelphia 76ers,True,False
+2019,NBA,1610612757,Portland Trail Blazers,True,False
+2019,NBA,1610612759,San Antonio Spurs,False,False
+2019,NBA,1610612761,Toronto Raptors,True,True
+2019,NBA,1610612762,Utah Jazz,False,False
+2019,NCAA,2,Auburn Tigers,True,False
+2019,NCAA,150,Duke Blue Devils,True,False
+2019,NCAA,52,Florida State Seminoles,False,False
+2019,NCAA,2250,Gonzaga Bulldogs,True,False
+2019,NCAA,248,Houston Cougars,False,False
+2019,NCAA,96,Kentucky Wildcats,True,False
+2019,NCAA,99,LSU Tigers,False,False
+2019,NCAA,127,Michigan State Spartans,True,False
+2019,NCAA,130,Michigan Wolverines,False,False
+2019,NCAA,153,North Carolina Tar Heels,False,False
+2019,NCAA,2483,Oregon Ducks,False,False
+2019,NCAA,2509,Purdue Boilermakers,True,False
+2019,NCAA,2633,Tennessee Volunteers,False,False
+2019,NCAA,2641,Texas Tech Red Raiders,True,False
+2019,NCAA,258,Virginia Cavaliers,True,True
+2019,NCAA,259,Virginia Tech Hokies,False,False
+2020,NBA,1610612738,Boston Celtics,True,False
+2020,NBA,1610612751,Brooklyn Nets,False,False
+2020,NBA,1610612742,Dallas Mavericks,False,False
+2020,NBA,1610612743,Denver Nuggets,True,False
+2020,NBA,1610612745,Houston Rockets,True,False
+2020,NBA,1610612754,Indiana Pacers,False,False
+2020,NBA,1610612746,LA Clippers,True,False
+2020,NBA,1610612747,Los Angeles Lakers,True,True
+2020,NBA,1610612748,Miami Heat,True,False
+2020,NBA,1610612749,Milwaukee Bucks,True,False
+2020,NBA,1610612760,Oklahoma City Thunder,False,False
+2020,NBA,1610612753,Orlando Magic,False,False
+2020,NBA,1610612755,Philadelphia 76ers,False,False
+2020,NBA,1610612757,Portland Trail Blazers,False,False
+2020,NBA,1610612761,Toronto Raptors,True,False
+2020,NBA,1610612762,Utah Jazz,False,False
+2021,NBA,1610612737,Atlanta Hawks,True,False
+2021,NBA,1610612738,Boston Celtics,False,False
+2021,NBA,1610612751,Brooklyn Nets,True,False
+2021,NBA,1610612742,Dallas Mavericks,False,False
+2021,NBA,1610612743,Denver Nuggets,True,False
+2021,NBA,1610612746,LA Clippers,True,False
+2021,NBA,1610612747,Los Angeles Lakers,False,False
+2021,NBA,1610612763,Memphis Grizzlies,False,False
+2021,NBA,1610612748,Miami Heat,False,False
+2021,NBA,1610612749,Milwaukee Bucks,True,True
+2021,NBA,1610612752,New York Knicks,False,False
+2021,NBA,1610612755,Philadelphia 76ers,True,False
+2021,NBA,1610612756,Phoenix Suns,True,False
+2021,NBA,1610612757,Portland Trail Blazers,False,False
+2021,NBA,1610612762,Utah Jazz,True,False
+2021,NBA,1610612764,Washington Wizards,False,False
+2021,NCAA,333,Alabama Crimson Tide,False,False
+2021,NCAA,8,Arkansas Razorbacks,True,False
+2021,NCAA,239,Baylor Bears,True,True
+2021,NCAA,156,Creighton Bluejays,False,False
+2021,NCAA,52,Florida State Seminoles,False,False
+2021,NCAA,2250,Gonzaga Bulldogs,True,False
+2021,NCAA,248,Houston Cougars,True,False
+2021,NCAA,2350,Loyola Chicago Ramblers,False,False
+2021,NCAA,130,Michigan Wolverines,True,False
+2021,NCAA,198,Oral Roberts Golden Eagles,False,False
+2021,NCAA,2483,Oregon Ducks,False,False
+2021,NCAA,204,Oregon State Beavers,True,False
+2021,NCAA,183,Syracuse Orange,False,False
+2021,NCAA,26,UCLA Bruins,True,False
+2021,NCAA,30,USC Trojans,True,False
+2021,NCAA,222,Villanova Wildcats,False,False
+2022,NBA,1610612737,Atlanta Hawks,False,False
+2022,NBA,1610612738,Boston Celtics,True,False
+2022,NBA,1610612751,Brooklyn Nets,False,False
+2022,NBA,1610612741,Chicago Bulls,False,False
+2022,NBA,1610612742,Dallas Mavericks,True,False
+2022,NBA,1610612743,Denver Nuggets,False,False
+2022,NBA,1610612744,Golden State Warriors,True,True
+2022,NBA,1610612763,Memphis Grizzlies,True,False
+2022,NBA,1610612748,Miami Heat,True,False
+2022,NBA,1610612749,Milwaukee Bucks,True,False
+2022,NBA,1610612750,Minnesota Timberwolves,False,False
+2022,NBA,1610612740,New Orleans Pelicans,False,False
+2022,NBA,1610612755,Philadelphia 76ers,True,False
+2022,NBA,1610612756,Phoenix Suns,True,False
+2022,NBA,1610612761,Toronto Raptors,False,False
+2022,NBA,1610612762,Utah Jazz,False,False
+2022,NCAA,12,Arizona Wildcats,False,False
+2022,NCAA,8,Arkansas Razorbacks,True,False
+2022,NCAA,150,Duke Blue Devils,True,False
+2022,NCAA,2250,Gonzaga Bulldogs,False,False
+2022,NCAA,248,Houston Cougars,True,False
+2022,NCAA,66,Iowa State Cyclones,False,False
+2022,NCAA,2305,Kansas Jayhawks,True,True
+2022,NCAA,2390,Miami Hurricanes,True,False
+2022,NCAA,130,Michigan Wolverines,False,False
+2022,NCAA,153,North Carolina Tar Heels,True,False
+2022,NCAA,2507,Providence Friars,False,False
+2022,NCAA,2509,Purdue Boilermakers,False,False
+2022,NCAA,2612,Saint Peter's Peacocks,True,False
+2022,NCAA,2641,Texas Tech Red Raiders,False,False
+2022,NCAA,26,UCLA Bruins,False,False
+2022,NCAA,222,Villanova Wildcats,True,False
+2023,NBA,1610612737,Atlanta Hawks,False,False
+2023,NBA,1610612738,Boston Celtics,True,False
+2023,NBA,1610612751,Brooklyn Nets,False,False
+2023,NBA,1610612739,Cleveland Cavaliers,False,False
+2023,NBA,1610612743,Denver Nuggets,True,True
+2023,NBA,1610612744,Golden State Warriors,True,False
+2023,NBA,1610612746,LA Clippers,False,False
+2023,NBA,1610612747,Los Angeles Lakers,True,False
+2023,NBA,1610612763,Memphis Grizzlies,False,False
+2023,NBA,1610612748,Miami Heat,True,False
+2023,NBA,1610612749,Milwaukee Bucks,False,False
+2023,NBA,1610612750,Minnesota Timberwolves,False,False
+2023,NBA,1610612752,New York Knicks,True,False
+2023,NBA,1610612755,Philadelphia 76ers,True,False
+2023,NBA,1610612756,Phoenix Suns,True,False
+2023,NBA,1610612758,Sacramento Kings,False,False
+2023,NCAA,333,Alabama Crimson Tide,False,False
+2023,NCAA,8,Arkansas Razorbacks,False,False
+2023,NCAA,156,Creighton Bluejays,True,False
+2023,NCAA,2226,Florida Atlantic Owls,True,False
+2023,NCAA,2250,Gonzaga Bulldogs,True,False
+2023,NCAA,248,Houston Cougars,False,False
+2023,NCAA,2306,Kansas State Wildcats,True,False
+2023,NCAA,2390,Miami Hurricanes,True,False
+2023,NCAA,127,Michigan State Spartans,False,False
+2023,NCAA,163,Princeton Tigers,False,False
+2023,NCAA,21,San Diego State Aztecs,True,False
+2023,NCAA,2633,Tennessee Volunteers,False,False
+2023,NCAA,251,Texas Longhorns,True,False
+2023,NCAA,26,UCLA Bruins,False,False
+2023,NCAA,41,UConn Huskies,True,True
+2023,NCAA,2752,Xavier Musketeers,False,False
+2024,NBA,1610612738,Boston Celtics,True,True
+2024,NBA,1610612739,Cleveland Cavaliers,True,False
+2024,NBA,1610612742,Dallas Mavericks,True,False
+2024,NBA,1610612743,Denver Nuggets,True,False
+2024,NBA,1610612754,Indiana Pacers,True,False
+2024,NBA,1610612746,LA Clippers,False,False
+2024,NBA,1610612747,Los Angeles Lakers,False,False
+2024,NBA,1610612748,Miami Heat,False,False
+2024,NBA,1610612749,Milwaukee Bucks,False,False
+2024,NBA,1610612750,Minnesota Timberwolves,True,False
+2024,NBA,1610612740,New Orleans Pelicans,False,False
+2024,NBA,1610612752,New York Knicks,True,False
+2024,NBA,1610612760,Oklahoma City Thunder,True,False
+2024,NBA,1610612753,Orlando Magic,False,False
+2024,NBA,1610612755,Philadelphia 76ers,False,False
+2024,NBA,1610612756,Phoenix Suns,False,False
+2024,NCAA,333,Alabama Crimson Tide,True,False
+2024,NCAA,12,Arizona Wildcats,False,False
+2024,NCAA,228,Clemson Tigers,True,False
+2024,NCAA,156,Creighton Bluejays,False,False
+2024,NCAA,150,Duke Blue Devils,True,False
+2024,NCAA,2250,Gonzaga Bulldogs,False,False
+2024,NCAA,248,Houston Cougars,False,False
+2024,NCAA,356,Illinois Fighting Illini,True,False
+2024,NCAA,66,Iowa State Cyclones,False,False
+2024,NCAA,269,Marquette Golden Eagles,False,False
+2024,NCAA,152,NC State Wolfpack,True,False
+2024,NCAA,153,North Carolina Tar Heels,False,False
+2024,NCAA,2509,Purdue Boilermakers,True,False
+2024,NCAA,21,San Diego State Aztecs,False,False
+2024,NCAA,2633,Tennessee Volunteers,True,False
+2024,NCAA,41,UConn Huskies,True,True
+2025,NBA,1610612738,Boston Celtics,True,False
+2025,NBA,1610612739,Cleveland Cavaliers,True,False
+2025,NBA,1610612743,Denver Nuggets,True,False
+2025,NBA,1610612765,Detroit Pistons,False,False
+2025,NBA,1610612744,Golden State Warriors,True,False
+2025,NBA,1610612745,Houston Rockets,False,False
+2025,NBA,1610612754,Indiana Pacers,True,False
+2025,NBA,1610612746,LA Clippers,False,False
+2025,NBA,1610612747,Los Angeles Lakers,False,False
+2025,NBA,1610612763,Memphis Grizzlies,False,False
+2025,NBA,1610612748,Miami Heat,False,False
+2025,NBA,1610612749,Milwaukee Bucks,False,False
+2025,NBA,1610612750,Minnesota Timberwolves,True,False
+2025,NBA,1610612752,New York Knicks,True,False
+2025,NBA,1610612760,Oklahoma City Thunder,True,True
+2025,NBA,1610612753,Orlando Magic,False,False
+2025,NCAA,333,Alabama Crimson Tide,True,False
+2025,NCAA,12,Arizona Wildcats,False,False
+2025,NCAA,8,Arkansas Razorbacks,False,False
+2025,NCAA,2,Auburn Tigers,True,False
+2025,NCAA,252,BYU Cougars,False,False
+2025,NCAA,150,Duke Blue Devils,True,False
+2025,NCAA,57,Florida Gators,True,True
+2025,NCAA,248,Houston Cougars,True,False
+2025,NCAA,96,Kentucky Wildcats,False,False
+2025,NCAA,120,Maryland Terrapins,False,False
+2025,NCAA,127,Michigan State Spartans,True,False
+2025,NCAA,130,Michigan Wolverines,False,False
+2025,NCAA,145,Ole Miss Rebels,False,False
+2025,NCAA,2509,Purdue Boilermakers,False,False
+2025,NCAA,2633,Tennessee Volunteers,True,False
+2025,NCAA,2641,Texas Tech Red Raiders,True,False
+2026,NBA,1610612737,Atlanta Hawks,False,False
+2026,NBA,1610612738,Boston Celtics,False,False
+2026,NBA,1610612739,Cleveland Cavaliers,True,False
+2026,NBA,1610612743,Denver Nuggets,False,False
+2026,NBA,1610612765,Detroit Pistons,True,False
+2026,NBA,1610612745,Houston Rockets,False,False
+2026,NBA,1610612747,Los Angeles Lakers,True,False
+2026,NBA,1610612750,Minnesota Timberwolves,True,False
+2026,NBA,1610612752,New York Knicks,True,True
+2026,NBA,1610612760,Oklahoma City Thunder,True,False
+2026,NBA,1610612753,Orlando Magic,False,False
+2026,NBA,1610612755,Philadelphia 76ers,True,False
+2026,NBA,1610612756,Phoenix Suns,False,False
+2026,NBA,1610612757,Portland Trail Blazers,False,False
+2026,NBA,1610612759,San Antonio Spurs,True,False
+2026,NBA,1610612761,Toronto Raptors,False,False
+2026,NCAA,333,Alabama Crimson Tide,False,False
+2026,NCAA,12,Arizona Wildcats,True,False
+2026,NCAA,8,Arkansas Razorbacks,False,False
+2026,NCAA,150,Duke Blue Devils,True,False
+2026,NCAA,248,Houston Cougars,False,False
+2026,NCAA,356,Illinois Fighting Illini,True,False
+2026,NCAA,2294,Iowa Hawkeyes,True,False
+2026,NCAA,66,Iowa State Cyclones,False,False
+2026,NCAA,127,Michigan State Spartans,False,False
+2026,NCAA,130,Michigan Wolverines,True,True
+2026,NCAA,158,Nebraska Cornhuskers,False,False
+2026,NCAA,2509,Purdue Boilermakers,True,False
+2026,NCAA,2599,St. John's Red Storm,False,False
+2026,NCAA,2633,Tennessee Volunteers,True,False
+2026,NCAA,251,Texas Longhorns,False,False
+2026,NCAA,41,UConn Huskies,True,False
