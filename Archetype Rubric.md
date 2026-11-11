@@ -18,6 +18,14 @@ Power forwards and centers qualify for the stretch-big role. Use roster position
 
 Give the AI the player's listed position and standardized stat profile. Withhold the player's name, team identity, seed, and postseason outcome. Assign every rostered player one primary role, with supporting evidence and a confidence rating. Choose the role with the strongest available evidence. For sparse or zero-minute records, assign a provisional role from roster position and any available stats, mark it very low confidence, and disclose when it is position-only. Keep those assignments visible and report how sensitive team comparisons are to them.
 
+## Resolving positions
+
+Use a team roster or media guide from the player's season first. Use the season's box-score position when roster information is unavailable. Record the original position, listed height, source, and whether the analysis position is listed, inferred, or unknown.
+
+Retain explicit positions and hybrids. A listed forward-center is eligible for the stretch-big tag, and the stretch-five tag requires evidence that the player actually played center. If the roster says only “forward,” use height relative to same-league, same-season forwards as supporting evidence for a broad wing or big group. Treat the result as inferred. Keep ambiguous players in a broad position group when possible and use an all-position comparison flagged as a fallback when the group is unknown. Assign a primary role in every case.
+
+Keep height as its own roster measure. Check whether the stretch-big comparison changes when excluding inferred positions so a height-based fallback does not drive the result.
+
 ## Position-adjusted tag thresholds
 
 Compare each player with players at the same position in the same league and season, using the full league or Division I as the reference pool. Use point guard, shooting guard, small forward, power forward, and center when available. For ambiguous positions, use the supported broader guard, wing, or big group and flag the fallback. Keep raw totals and rates alongside percentiles. Fifteen assists in 150 minutes could rank highly for a center and near the middle for a point guard. The comparison uses rate and sample size together.
