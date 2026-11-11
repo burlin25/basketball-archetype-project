@@ -80,7 +80,7 @@ def match_nba_bio(row, by_name, by_id):
     return {"position_abbreviation": positions, "height": identity.get("heightInches", "")}, "NBA player directory"
 
 
-def match(folder, totals_path, output):
+def match(folder, totals_path, output, all_teams=False):
     fields = {(year, league): postseason_teams(folder, year, league)
               for year in SWEET_SIXTEEN_GAMES for league in ("NBA", "NCAA")}
     old_bios = {row["athlete_id"]: row for row in read_rows(folder / "player_core_2007.csv")}
@@ -101,7 +101,7 @@ def match(folder, totals_path, output):
     records = []
     for row in read_rows(totals_path):
         year, league = int(row["season"]), row["league"]
-        if row["team_id"] not in fields[year, league]:
+        if not all_teams and row["team_id"] not in fields[year, league]:
             continue
         bio, source = {}, ""
         if league == "NCAA" and year == 2007:
@@ -133,7 +133,7 @@ def match(folder, totals_path, output):
         records.append(row)
     covered = {(int(row["season"]), row["league"], row["team_id"]) for row in records}
     expected = {(year, league, team) for (year, league), teams in fields.items() for team in teams}
-    if covered != expected:
+    if not expected <= covered:
         raise ValueError(f"Teams without player totals: {sorted(expected - covered)}")
     with output.open("w", newline="", encoding="utf-8") as file:
         writer = csv.DictWriter(file, fieldnames=list(records[0]), lineterminator="\n")
@@ -146,8 +146,9 @@ def main():
     parser.add_argument("input_dir", type=Path)
     parser.add_argument("totals_csv", type=Path)
     parser.add_argument("output", type=Path)
+    parser.add_argument("--all-teams", action="store_true", help="Include the benchmark population")
     args = parser.parse_args()
-    match(args.input_dir, args.totals_csv, args.output)
+    match(args.input_dir, args.totals_csv, args.output, args.all_teams)
 
 
 if __name__ == "__main__":
