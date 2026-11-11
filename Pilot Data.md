@@ -36,3 +36,7 @@ The main role uses the strongest qualifying positional signal, or the strongest 
 ## Stretch-big sensitivity check
 
 Run `python3 compare_stretch_bigs.py pilot_archetypes.csv INPUT_FOLDER pilot_stretch_big_comparison.csv`. This compares each champion's percentage of pre-postseason player minutes assigned to qualifying stretch bigs with the arithmetic mean of the other teams' percentages. It includes players whose stretch-big label is secondary. The only changed threshold is the attempts-per-40 percentile, from 75 to 70. Both versions use the 150-minute and 40-attempt minimums and the positional accuracy median. The final eight are the NBA conference semifinalists and NCAA Sweet 16 winners. These comparisons are descriptive and use four champions and provisional position benchmarks.
+
+## Main-role rotation comparison
+
+Run `python3 compare_pilot_roles.py pilot_archetypes.csv INPUT_FOLDER pilot_role_comparison.csv`. The main analysis assigns each player's minutes to their primary archetype. The stricter analysis moves low- and very-low-confidence minutes to Uncertain and retains the same denominator. The other teams' values are equal-weight averages of team rotation shares. Both the 16-team and eight-team fields include the champion. Differences are percentage points. Use the separate stretch-big results to include players who earned stretch big as a secondary tag.

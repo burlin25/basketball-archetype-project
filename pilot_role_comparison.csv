@@ -1,0 +1,109 @@
+season,league,field_size,champion,primary_role,champion_minutes_pct,other_teams_mean_minutes_pct,difference_pp,stricter_champion_minutes_pct,stricter_other_teams_mean_minutes_pct,stricter_difference_pp
+2007,NBA,16,San Antonio Spurs,Facilitator,11.07,3.59,7.48,10.74,3.43,7.32
+2007,NBA,16,San Antonio Spurs,High-volume shooter,17.46,10.11,7.35,17.46,10.11,7.35
+2007,NBA,16,San Antonio Spurs,Interior player,0,0.0,-0.0,0,0,0
+2007,NBA,16,San Antonio Spurs,Passing big,13.78,5.61,8.17,13.78,5.61,8.17
+2007,NBA,16,San Antonio Spurs,Perimeter shooter,30.12,9.51,20.6,29.67,9.44,20.23
+2007,NBA,16,San Antonio Spurs,Primary facilitator,0,6.9,-6.9,0,6.9,-6.9
+2007,NBA,16,San Antonio Spurs,Rebound specialist,0,15.62,-15.62,0,15.62,-15.62
+2007,NBA,16,San Antonio Spurs,Rebounder,0.69,6.1,-5.41,0,5.76,-5.76
+2007,NBA,16,San Antonio Spurs,Scorer,13.15,14.67,-1.51,12.63,14.62,-1.98
+2007,NBA,16,San Antonio Spurs,Secondary facilitator,0,6.54,-6.54,0,6.54,-6.54
+2007,NBA,16,San Antonio Spurs,Shot blocker,10.42,18.2,-7.79,10.42,18.02,-7.6
+2007,NBA,16,San Antonio Spurs,Stretch big,3.3,3.14,0.17,3.3,3.14,0.17
+2007,NBA,16,San Antonio Spurs,Uncertain,0,0,0,1.99,0.81,1.17
+2007,NBA,8,San Antonio Spurs,Facilitator,11.07,2.56,8.51,10.74,2.45,8.29
+2007,NBA,8,San Antonio Spurs,High-volume shooter,17.46,8.24,9.22,17.46,8.24,9.22
+2007,NBA,8,San Antonio Spurs,Interior player,0,0.0,-0.0,0,0,0
+2007,NBA,8,San Antonio Spurs,Passing big,13.78,3.69,10.1,13.78,3.69,10.1
+2007,NBA,8,San Antonio Spurs,Perimeter shooter,30.12,6.02,24.1,29.67,5.87,23.8
+2007,NBA,8,San Antonio Spurs,Primary facilitator,0,7.92,-7.92,0,7.92,-7.92
+2007,NBA,8,San Antonio Spurs,Rebound specialist,0,19.53,-19.53,0,19.53,-19.53
+2007,NBA,8,San Antonio Spurs,Rebounder,0.69,2.23,-1.54,0,1.97,-1.97
+2007,NBA,8,San Antonio Spurs,Scorer,13.15,19.25,-6.1,12.63,19.23,-6.59
+2007,NBA,8,San Antonio Spurs,Secondary facilitator,0,4.55,-4.55,0,4.55,-4.55
+2007,NBA,8,San Antonio Spurs,Shot blocker,10.42,23.1,-12.68,10.42,22.97,-12.55
+2007,NBA,8,San Antonio Spurs,Stretch big,3.3,2.9,0.4,3.3,2.9,0.4
+2007,NBA,8,San Antonio Spurs,Uncertain,0,0,0,1.99,0.68,1.31
+2007,NCAA,16,Florida Gators,Facilitator,18.96,9.71,9.24,18.96,8.63,10.33
+2007,NCAA,16,Florida Gators,High-volume shooter,14.88,11.35,3.54,14.88,11.35,3.54
+2007,NCAA,16,Florida Gators,Interior player,0,0.0,0.0,0,0,0
+2007,NCAA,16,Florida Gators,Passing big,30.1,9.06,21.03,30.1,9.06,21.03
+2007,NCAA,16,Florida Gators,Perimeter player,0,0.02,-0.02,0,0,0
+2007,NCAA,16,Florida Gators,Perimeter shooter,0.65,4.84,-4.19,0,4.41,-4.41
+2007,NCAA,16,Florida Gators,Primary facilitator,0,10.03,-10.03,0,10.03,-10.03
+2007,NCAA,16,Florida Gators,Rebound specialist,15.25,12.69,2.55,15.25,12.69,2.55
+2007,NCAA,16,Florida Gators,Rebounder,0.15,4.23,-4.08,0,3.37,-3.37
+2007,NCAA,16,Florida Gators,Scorer,18.69,5.82,12.86,18.51,5.53,12.97
+2007,NCAA,16,Florida Gators,Secondary facilitator,0,7.81,-7.81,0,7.81,-7.81
+2007,NCAA,16,Florida Gators,Shot blocker,1.33,24.43,-23.1,0,23.75,-23.75
+2007,NCAA,16,Florida Gators,Uncertain,0,0,0,2.31,3.36,-1.05
+2007,NCAA,8,Florida Gators,Facilitator,18.96,10.91,8.04,18.96,9.54,9.42
+2007,NCAA,8,Florida Gators,High-volume shooter,14.88,10.03,4.86,14.88,10.03,4.86
+2007,NCAA,8,Florida Gators,Interior player,0,0,0,0,0,0
+2007,NCAA,8,Florida Gators,Passing big,30.1,11.83,18.27,30.1,11.83,18.27
+2007,NCAA,8,Florida Gators,Perimeter player,0,0.0,0.0,0,0,0
+2007,NCAA,8,Florida Gators,Perimeter shooter,0.65,6.07,-5.42,0,5.69,-5.69
+2007,NCAA,8,Florida Gators,Primary facilitator,0,8.16,-8.16,0,8.16,-8.16
+2007,NCAA,8,Florida Gators,Rebound specialist,15.25,14.85,0.4,15.25,14.85,0.4
+2007,NCAA,8,Florida Gators,Rebounder,0.15,3.04,-2.89,0,2.57,-2.57
+2007,NCAA,8,Florida Gators,Scorer,18.69,3.44,15.25,18.51,3.13,15.37
+2007,NCAA,8,Florida Gators,Secondary facilitator,0,6.76,-6.76,0,6.76,-6.76
+2007,NCAA,8,Florida Gators,Shot blocker,1.33,24.92,-23.59,0,24.22,-24.22
+2007,NCAA,8,Florida Gators,Uncertain,0,0,0,2.31,3.23,-0.92
+2026,NBA,16,New York Knicks,Facilitator,0.2,3.2,-3.0,0,3.02,-3.02
+2026,NBA,16,New York Knicks,High-volume shooter,11.4,12.34,-0.94,11.4,12.34,-0.94
+2026,NBA,16,New York Knicks,Interior player,0,0.0,0.0,0,0,0
+2026,NBA,16,New York Knicks,Passing big,0,6.85,-6.85,0,6.85,-6.85
+2026,NBA,16,New York Knicks,Perimeter player,0,0.0,0.0,0,0,0
+2026,NBA,16,New York Knicks,Perimeter shooter,0.69,10.47,-9.79,0,10.25,-10.25
+2026,NBA,16,New York Knicks,Primary facilitator,13.11,3.9,9.21,13.11,3.9,9.21
+2026,NBA,16,New York Knicks,Rebound specialist,30.43,11.22,19.2,30.43,11.22,19.2
+2026,NBA,16,New York Knicks,Rebounder,1.01,6.84,-5.83,0,6.52,-6.52
+2026,NBA,16,New York Knicks,Scorer,6.48,9.94,-3.46,6.48,9.84,-3.37
+2026,NBA,16,New York Knicks,Secondary facilitator,6.08,7.12,-1.04,6.08,7.12,-1.04
+2026,NBA,16,New York Knicks,Shot blocker,27.4,25.23,2.17,27.4,24.74,2.67
+2026,NBA,16,New York Knicks,Stretch big,3.21,2.87,0.34,3.21,2.87,0.34
+2026,NBA,16,New York Knicks,Uncertain,0,0,0,1.9,1.33,0.57
+2026,NBA,8,New York Knicks,Facilitator,0.2,2.67,-2.47,0,2.45,-2.45
+2026,NBA,8,New York Knicks,High-volume shooter,11.4,13.05,-1.66,11.4,13.05,-1.66
+2026,NBA,8,New York Knicks,Interior player,0,0,0,0,0,0
+2026,NBA,8,New York Knicks,Passing big,0,6.77,-6.77,0,6.77,-6.77
+2026,NBA,8,New York Knicks,Perimeter player,0,0,0,0,0,0
+2026,NBA,8,New York Knicks,Perimeter shooter,0.69,7.14,-6.45,0,6.97,-6.97
+2026,NBA,8,New York Knicks,Primary facilitator,13.11,3.04,10.07,13.11,3.04,10.07
+2026,NBA,8,New York Knicks,Rebound specialist,30.43,8.4,22.02,30.43,8.4,22.02
+2026,NBA,8,New York Knicks,Rebounder,1.01,5.98,-4.97,0,5.69,-5.69
+2026,NBA,8,New York Knicks,Scorer,6.48,10.34,-3.86,6.48,10.14,-3.66
+2026,NBA,8,New York Knicks,Secondary facilitator,6.08,6.24,-0.16,6.08,6.24,-0.16
+2026,NBA,8,New York Knicks,Shot blocker,27.4,33.1,-5.7,27.4,32.51,-5.11
+2026,NBA,8,New York Knicks,Stretch big,3.21,3.25,-0.04,3.21,3.25,-0.04
+2026,NBA,8,New York Knicks,Uncertain,0,0,0,1.9,1.47,0.43
+2026,NCAA,16,Michigan Wolverines,Facilitator,1.1,5.36,-4.26,0,4.63,-4.63
+2026,NCAA,16,Michigan Wolverines,High-volume shooter,20.38,10.53,9.85,20.38,10.53,9.85
+2026,NCAA,16,Michigan Wolverines,Interior player,0,0.0,0.0,0,0,0
+2026,NCAA,16,Michigan Wolverines,Passing big,26.59,16.75,9.84,26.59,16.75,9.84
+2026,NCAA,16,Michigan Wolverines,Perimeter player,0.0,0.02,-0.02,0,0,0
+2026,NCAA,16,Michigan Wolverines,Perimeter shooter,1.05,6.09,-5.03,0,5.65,-5.65
+2026,NCAA,16,Michigan Wolverines,Primary facilitator,13.14,15.66,-2.52,13.14,15.66,-2.52
+2026,NCAA,16,Michigan Wolverines,Rebound specialist,12.48,13.86,-1.37,12.48,13.86,-1.37
+2026,NCAA,16,Michigan Wolverines,Rebounder,0.81,1.46,-0.65,0,0.88,-0.88
+2026,NCAA,16,Michigan Wolverines,Scorer,0,3.78,-3.78,0,3.56,-3.56
+2026,NCAA,16,Michigan Wolverines,Secondary facilitator,7.65,5.14,2.51,7.65,5.14,2.51
+2026,NCAA,16,Michigan Wolverines,Shot blocker,9.85,17.82,-7.98,9.85,17.19,-7.35
+2026,NCAA,16,Michigan Wolverines,Stretch big,6.95,3.55,3.4,6.95,3.55,3.4
+2026,NCAA,16,Michigan Wolverines,Uncertain,0,0,0,2.96,2.6,0.36
+2026,NCAA,8,Michigan Wolverines,Facilitator,1.1,7.97,-6.87,0,6.9,-6.9
+2026,NCAA,8,Michigan Wolverines,High-volume shooter,20.38,7.22,13.16,20.38,7.22,13.16
+2026,NCAA,8,Michigan Wolverines,Interior player,0,0.0,0.0,0,0,0
+2026,NCAA,8,Michigan Wolverines,Passing big,26.59,21.65,4.94,26.59,21.65,4.94
+2026,NCAA,8,Michigan Wolverines,Perimeter player,0.0,0.03,-0.03,0,0,0
+2026,NCAA,8,Michigan Wolverines,Perimeter shooter,1.05,7.23,-6.17,0,6.88,-6.88
+2026,NCAA,8,Michigan Wolverines,Primary facilitator,13.14,14.16,-1.02,13.14,14.16,-1.02
+2026,NCAA,8,Michigan Wolverines,Rebound specialist,12.48,14.51,-2.03,12.48,14.51,-2.03
+2026,NCAA,8,Michigan Wolverines,Rebounder,0.81,0.98,-0.18,0,0.56,-0.56
+2026,NCAA,8,Michigan Wolverines,Scorer,0,1.27,-1.27,0,1.07,-1.07
+2026,NCAA,8,Michigan Wolverines,Secondary facilitator,7.65,7.24,0.41,7.65,7.24,0.41
+2026,NCAA,8,Michigan Wolverines,Shot blocker,9.85,13.28,-3.43,9.85,12.81,-2.97
+2026,NCAA,8,Michigan Wolverines,Stretch big,6.95,4.45,2.49,6.95,4.45,2.49
+2026,NCAA,8,Michigan Wolverines,Uncertain,0,0,0,2.96,2.56,0.4
