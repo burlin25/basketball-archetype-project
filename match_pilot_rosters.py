@@ -3,6 +3,8 @@
 import argparse
 import csv
 import re
+import unicodedata
+from collections import defaultdict
 from pathlib import Path
 from statistics import median
 
@@ -49,17 +51,52 @@ def height_inches(value):
     return ""
 
 
+def name_key(name):
+    normalized = unicodedata.normalize("NFKD", name.casefold())
+    return "".join(char for char in normalized if char.isalnum())
+
+
+def nba_bios(folder, year):
+    by_name = defaultdict(list)
+    for bio in read_rows(folder / f"nba_core_{year}.csv"):
+        by_name[name_key(bio["full_name"])].append(bio)
+    return by_name
+
+
+def match_nba_bio(row, by_name, by_id):
+    identity = by_id.get(row["player_id"], {})
+    canonical_name = f'{identity.get("firstName", "")} {identity.get("lastName", "")}'
+    candidates = by_name.get(name_key(canonical_name or row["player"]), [])
+    if not candidates:
+        candidates = by_name.get(name_key(row["player"]), [])
+    birth_date = identity.get("birthDate")
+    if birth_date:
+        candidates = [bio for bio in candidates if bio["date_of_birth"][:10] == birth_date[:10]]
+    if len(candidates) == 1 and candidates[0]["position_abbreviation"] in POSITIONS:
+        return candidates[0], "ESPN NBA player core"
+
+    positions = "-".join(code for field, code in (("guard", "G"), ("forward", "F"), ("center", "C"))
+                         if identity.get(field) == "1")
+    return {"position_abbreviation": positions, "height": identity.get("heightInches", "")}, "NBA player directory"
+
+
 def match(folder, totals_path, output):
     fields = {(year, league): postseason_teams(folder, year, league)
               for year in SWEET_SIXTEEN_GAMES for league in ("NBA", "NCAA")}
     old_bios = {row["athlete_id"]: row for row in read_rows(folder / "player_core_2007.csv")}
     recent_bios = {(row["team_id"], row["athlete_id"]): row
                    for row in read_rows(folder / "rosters_2026.csv")}
+    nba_by_name = {year: nba_bios(folder, year) for year in SWEET_SIXTEEN_GAMES}
+    nba_by_id = {row["personId"]: row for row in read_rows(folder / "nba_players.csv")}
     forward_heights = {}
     for year, bios in ((2007, old_bios.values()), (2026, recent_bios.values())):
         heights = {bio["athlete_id"]: height_inches(bio["height"]) for bio in bios
                    if bio["position_abbreviation"] == "F" and height_inches(bio["height"])}
-        forward_heights[year] = median(heights.values()) if heights else None
+        forward_heights[year, "NCAA"] = median(heights.values()) if heights else None
+        nba_heights = [height_inches(bio["height"]) for group in nba_by_name[year].values()
+                       for bio in group if bio["position_abbreviation"] == "F"]
+        nba_heights = [height for height in nba_heights if height]
+        forward_heights[year, "NBA"] = median(nba_heights) if nba_heights else None
 
     records = []
     for row in read_rows(totals_path):
@@ -73,21 +110,21 @@ def match(folder, totals_path, output):
         elif league == "NCAA":
             bio = recent_bios.get((row["team_id"], row["player_id"]), {})
             source = "ESPN team roster (2026)"
+        else:
+            bio, source = match_nba_bio(row, nba_by_name[year], nba_by_id)
         position = bio.get("position_abbreviation", "").strip()
-        if position not in POSITIONS:
+        if position not in POSITIONS and league == "NCAA":
             position = row["source_position"]
             source = "Game box scores"
         height = height_inches(bio.get("height", ""))
-        if league == "NBA":
-            position = ""
         row.update(listed_position=position if position in POSITIONS else "",
                    position_source=source if position in POSITIONS else "",
                    height_inches=height)
         group, method = position, "listed"
         if position not in POSITIONS:
             group, method = "", "unknown"
-        elif position == "F" and height and league == "NCAA" and forward_heights[year]:
-            midpoint = forward_heights[year]
+        elif position == "F" and height and forward_heights[year, league]:
+            midpoint = forward_heights[year, league]
             if height > midpoint:
                 group, method = "Big", "height inference"
             elif height < midpoint:
