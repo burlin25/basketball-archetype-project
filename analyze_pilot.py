@@ -23,9 +23,10 @@ def analyze(path):
             confidence = row["confidence"].strip().lower()
             if not all(player) or not role or confidence not in {"high", "medium", "low", "very low"}:
                 raise ValueError(f"Invalid player, role, or confidence on line {line}")
-            if player in players:
+            player_key = (*player[:3], (row.get("player_id") or player[3]).strip())
+            if player_key in players:
                 raise ValueError(f"Duplicate team-player record on line {line}")
-            players.add(player)
+            players.add(player_key)
 
             minutes = float(row["minutes"])
             if not math.isfinite(minutes) or minutes < 0:
