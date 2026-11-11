@@ -1,0 +1,17 @@
+season,league,field_size,volume_percentile_cutoff,champion,champion_minutes_pct,other_teams_mean_minutes_pct,difference_percentage_points
+2007,NBA,16,75,San Antonio Spurs,3.3,4.31,-1.01
+2007,NBA,8,75,San Antonio Spurs,3.3,3.38,-0.08
+2007,NBA,16,70,San Antonio Spurs,3.3,4.64,-1.33
+2007,NBA,8,70,San Antonio Spurs,3.3,4.07,-0.77
+2007,NCAA,16,75,Florida Gators,0.0,2.9,-2.9
+2007,NCAA,8,75,Florida Gators,0.0,6.2,-6.2
+2007,NCAA,16,70,Florida Gators,0.0,2.9,-2.9
+2007,NCAA,8,70,Florida Gators,0.0,6.2,-6.2
+2026,NBA,16,75,New York Knicks,3.21,3.5,-0.29
+2026,NBA,8,75,New York Knicks,3.21,4.6,-1.39
+2026,NBA,16,70,New York Knicks,14.96,4.85,10.12
+2026,NBA,8,70,New York Knicks,14.96,4.6,10.36
+2026,NCAA,16,75,Michigan Wolverines,22.07,7.4,14.67
+2026,NCAA,8,75,Michigan Wolverines,22.07,8.91,13.15
+2026,NCAA,16,70,Michigan Wolverines,22.07,10.56,11.51
+2026,NCAA,8,70,Michigan Wolverines,22.07,11.27,10.79
