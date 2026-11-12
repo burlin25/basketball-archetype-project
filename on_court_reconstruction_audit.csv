@@ -1,0 +1,153 @@
+league,game_id,lineup_present,possession_score_matches,official_clock_seconds,covered_clock_seconds,max_player_seconds_error,max_player_plus_minus_error,exact_player_plus_minus_rows,player_plus_minus_rows,validated,reason
+NBA,0042500101,True,True,2880,2880.0,0.0,0.0,20,20,True,
+NBA,0042500102,True,True,2880,2880.0,0.5,1.0,25,27,True,
+NBA,0042500103,True,True,2880,2880.0,0.4,0.0,20,20,True,
+NBA,0042500104,True,True,2880,2880.0,0.2,0.0,19,19,True,
+NBA,0042500105,True,True,2880,2880.0,0.4,0.0,17,17,True,
+NBA,0042500106,True,True,2880,2880.0,0.5,0.0,19,19,True,
+NBA,0042500107,True,True,2880,2880.0,0.5,0.0,22,22,True,
+NBA,0042500111,True,True,2880,2880.0,0.3,0.0,24,24,True,
+NBA,0042500112,True,True,2880,2880.0,0.3,0.0,21,21,True,
+NBA,0042500113,True,True,2880,2880.0,0.4,0.0,18,18,True,
+NBA,0042500114,True,True,2880,2880.0,0.3,0.0,27,27,True,
+NBA,0042500115,True,True,2880,2880.0,0.4,0.0,26,26,True,
+NBA,0042500116,True,True,2880,2880.0,0.1,0.0,24,24,True,
+NBA,0042500117,True,True,2880,2880.0,0.3,0.0,19,19,True,
+NBA,0042500121,True,True,2880,2880.0,0.4,0.0,18,18,True,
+NBA,0042500122,True,True,2880,2880.0,0.5,0.0,20,20,True,
+NBA,0042500123,True,True,2880,2880.0,0.5,0.0,19,19,True,
+NBA,0042500124,True,True,2880,2880.0,0.4,0.0,26,26,True,
+NBA,0042500125,True,True,2880,2880.0,0.5,0.0,26,26,True,
+NBA,0042500126,True,True,2880,2880.0,0.3,0.0,29,29,True,
+NBA,0042500131,True,True,2880,2880.0,0.5,0.0,26,26,True,
+NBA,0042500132,True,True,2880,2880.0,0.4,0.0,19,19,True,
+NBA,0042500133,True,True,2880,2880.0,0.1,0.0,29,29,True,
+NBA,0042500134,True,True,2880,2880.0,0.5,0.0,20,20,True,
+NBA,0042500135,True,True,2880,2880.0,0.5,0.0,20,20,True,
+NBA,0042500136,True,True,3180,3180.0,0.4,0.0,19,19,True,
+NBA,0042500137,True,True,2880,2880.0,0.5,0.0,22,22,True,
+NBA,0042500141,True,True,2880,2880.0,0.4,0.0,27,27,True,
+NBA,0042500142,True,True,2880,2880.0,0.3,0.0,22,22,True,
+NBA,0042500143,True,True,2880,2880.0,0.5,0.0,25,25,True,
+NBA,0042500144,True,True,2880,2880.0,0.5,0.0,25,25,True,
+NBA,0042500151,True,True,2880,2880.0,0.4,0.0,27,27,True,
+NBA,0042500152,True,True,2880,2880.0,0.4,0.0,20,20,True,
+NBA,0042500153,True,True,2880,2880.0,0.3,0.0,23,23,True,
+NBA,0042500154,True,True,2880,2880.0,0.2,1.0,11,27,True,
+NBA,0042500155,True,True,2880,2880.0,0.3,2.0,26,28,True,
+NBA,0042500161,True,True,2880,2880.0,0.5,1.0,15,19,True,
+NBA,0042500162,True,True,2880,2880.0,0.5,0.0,19,19,True,
+NBA,0042500163,True,True,2880,2880.0,0.4,0.0,25,25,True,
+NBA,0042500164,True,True,2880,2880.0,0.4,0.0,21,21,True,
+NBA,0042500165,True,True,2880,2880.0,0.4,0.0,23,23,True,
+NBA,0042500166,True,True,2880,2880.0,0.5,0.0,18,18,True,
+NBA,0042500171,True,True,2880,2880.0,0.3,0.0,18,18,True,
+NBA,0042500172,True,True,2880,2880.0,0.4,0.0,19,19,True,
+NBA,0042500173,True,True,3180,3180.0,0.5,0.0,21,21,True,
+NBA,0042500174,True,True,2880,2880.0,0.5,0.0,24,24,True,
+NBA,0042500175,True,True,2880,2880.0,0.5,0.0,17,17,True,
+NBA,0042500176,True,True,2880,2880.0,0.5,0.0,23,23,True,
+NBA,0042500201,True,True,2880,2880.0,0.5,0.0,21,21,True,
+NBA,0042500202,True,True,2880,2880.0,0.4,0.0,19,19,True,
+NBA,0042500203,True,True,2880,2880.0,0.5,0.0,20,20,True,
+NBA,0042500204,True,True,2880,2880.0,0.3,0.0,26,26,True,
+NBA,0042500205,True,True,3180,3180.0,0.5,0.0,19,19,True,
+NBA,0042500206,True,True,2880,2880.0,0.4,0.0,26,26,True,
+NBA,0042500207,True,True,2880,2880.0,0.4,0.0,26,26,True,
+NBA,0042500211,True,True,2880,2880.0,0.4,0.0,28,28,True,
+NBA,0042500212,True,True,2880,2880.0,0.5,0.0,19,19,True,
+NBA,0042500213,True,True,2880,2880.0,0.3,0.0,27,27,True,
+NBA,0042500214,True,True,2880,2880.0,0.4,0.0,28,28,True,
+NBA,0042500221,True,True,2880,2880.0,0.4,0.0,25,25,True,
+NBA,0042500222,True,True,2880,2880.0,0.5,0.0,25,25,True,
+NBA,0042500223,True,True,2880,2880.0,0.5,0.0,25,25,True,
+NBA,0042500224,True,True,2880,2880.0,0.5,0.0,21,21,True,
+NBA,0042500231,True,True,2880,2880.0,0.4,0.0,18,18,True,
+NBA,0042500232,True,True,2880,2880.0,0.4,0.0,29,29,True,
+NBA,0042500233,True,True,2880,2880.0,0.4,0.0,18,18,True,
+NBA,0042500234,True,True,2880,2880.0,0.5,0.0,18,18,True,
+NBA,0042500235,True,True,2880,2880.0,0.3,1.0,25,27,True,
+NBA,0042500236,True,True,2880,2880.0,0.5,0.0,28,28,True,
+NBA,0042500301,True,True,3180,3180.0,0.2,0.0,19,19,True,
+NBA,0042500302,True,True,2880,2880.0,0.3,0.0,26,26,True,
+NBA,0042500303,True,True,2880,2880.0,0.3,0.0,19,19,True,
+NBA,0042500304,True,True,2880,2880.0,0.4,0.0,27,27,True,
+NBA,0042500311,True,True,3480,3480.0,0.4,0.0,21,21,True,
+NBA,0042500312,True,True,2880,2880.0,0.5,0.0,22,22,True,
+NBA,0042500313,True,True,2880,2880.0,0.5,0.0,28,28,True,
+NBA,0042500314,True,True,2880,2880.0,0.2,0.0,25,25,True,
+NBA,0042500315,True,True,2880,2880.0,0.5,0.0,26,26,True,
+NBA,0042500316,True,True,2880,2880.0,0.3,0.0,28,28,True,
+NBA,0042500317,True,True,2880,2880.0,0.4,0.0,19,19,True,
+NBA,0042500401,True,True,2880,2880.0,0.5,0.0,20,20,True,
+NBA,0042500402,True,True,2880,2880.0,0.5,0.0,19,19,True,
+NBA,0042500403,True,True,2880,2880.0,0.4,0.0,20,20,True,
+NBA,0042500404,True,True,2880,2880.0,0.5,0.0,21,21,True,
+NBA,0042500405,True,True,2880,2880.0,0.4,0.0,21,21,True,
+NCAA,401856434,True,True,2400,2400,41.0,,,,True,
+NCAA,401856435,True,True,2400,2400,54.0,,,,True,
+NCAA,401856436,True,True,2400,2400,67.0,,,,False,player minutes exceed tolerance
+NCAA,401856437,True,True,2400,2400,68.0,,,,False,player minutes exceed tolerance
+NCAA,401856478,True,True,2400,2400,53.0,,,,True,
+NCAA,401856479,True,True,2400,2400,79.0,,,,False,player minutes exceed tolerance
+NCAA,401856480,True,True,2400,2400,35.0,,,,True,
+NCAA,401856481,True,True,2400,2400,51.0,,,,True,
+NCAA,401856482,True,False,2400,2400,79.0,,,,False,scoring or possession lineup discrepancy | player minutes exceed tolerance
+NCAA,401856483,True,True,2400,2400,55.0,,,,True,
+NCAA,401856484,True,True,2400,2400,49.0,,,,True,
+NCAA,401856485,True,False,2400,2400,57.0,,,,False,scoring or possession lineup discrepancy
+NCAA,401856486,True,True,2400,2400,95.0,,,,False,player minutes exceed tolerance
+NCAA,401856487,True,True,2400,2400,69.0,,,,False,player minutes exceed tolerance
+NCAA,401856488,True,True,2400,2400,188.0,,,,False,player minutes exceed tolerance
+NCAA,401856489,True,True,2400,2400,180.0,,,,False,player minutes exceed tolerance
+NCAA,401856490,True,False,2700,1500,1028.0,,,,False,scoring or possession lineup discrepancy | incomplete lineup clock | player minutes exceed tolerance
+NCAA,401856491,True,True,2400,2400,69.0,,,,False,player minutes exceed tolerance
+NCAA,401856492,True,True,2400,2400,72.0,,,,False,player minutes exceed tolerance
+NCAA,401856493,True,True,2400,2400,58.0,,,,True,
+NCAA,401856494,True,True,2400,2400,74.0,,,,False,player minutes exceed tolerance
+NCAA,401856495,True,True,2400,2400,59.0,,,,True,
+NCAA,401856496,True,False,2400,2400,49.0,,,,False,scoring or possession lineup discrepancy
+NCAA,401856497,True,True,2400,2400,73.0,,,,False,player minutes exceed tolerance
+NCAA,401856518,True,True,2400,2400,67.0,,,,False,player minutes exceed tolerance
+NCAA,401856519,True,True,2400,2400,54.0,,,,True,
+NCAA,401856520,True,True,2400,2400,58.0,,,,True,
+NCAA,401856521,True,True,2400,2400,78.0,,,,False,player minutes exceed tolerance
+NCAA,401856522,True,True,2400,2400,82.0,,,,False,player minutes exceed tolerance
+NCAA,401856523,True,True,2400,2400,53.0,,,,True,
+NCAA,401856524,True,True,2400,2400,46.0,,,,True,
+NCAA,401856525,True,True,2700,2700,87.0,,,,False,player minutes exceed tolerance
+NCAA,401856526,True,False,2400,2400,38.0,,,,False,scoring or possession lineup discrepancy
+NCAA,401856527,True,True,2400,2400,43.0,,,,True,
+NCAA,401856528,True,True,2400,2400,62.0,,,,False,player minutes exceed tolerance
+NCAA,401856529,True,True,2400,2400,59.0,,,,True,
+NCAA,401856530,True,False,2400,2400,119.0,,,,False,scoring or possession lineup discrepancy | player minutes exceed tolerance
+NCAA,401856531,True,True,2400,2400,79.0,,,,False,player minutes exceed tolerance
+NCAA,401856532,True,True,2400,2400,50.0,,,,True,
+NCAA,401856533,True,True,2400,2400,61.0,,,,False,player minutes exceed tolerance
+NCAA,401856534,True,True,2400,2400,82.0,,,,False,player minutes exceed tolerance
+NCAA,401856535,True,True,2400,2400,75.0,,,,False,player minutes exceed tolerance
+NCAA,401856536,True,True,2400,2400,55.0,,,,True,
+NCAA,401856537,True,True,2400,2400,68.0,,,,False,player minutes exceed tolerance
+NCAA,401856558,True,True,2400,2400,68.0,,,,False,player minutes exceed tolerance
+NCAA,401856559,True,False,2400,2400,74.0,,,,False,scoring or possession lineup discrepancy | player minutes exceed tolerance
+NCAA,401856560,True,True,2400,2400,66.0,,,,False,player minutes exceed tolerance
+NCAA,401856561,True,True,2400,2400,53.0,,,,True,
+NCAA,401856562,True,True,2400,2400,42.0,,,,True,
+NCAA,401856563,True,True,2400,2400,66.0,,,,False,player minutes exceed tolerance
+NCAA,401856564,True,True,2400,2400,59.0,,,,True,
+NCAA,401856565,True,True,2400,2400,58.0,,,,True,
+NCAA,401856566,True,True,2400,2400,554.0,,,,False,player minutes exceed tolerance
+NCAA,401856567,True,True,2400,2400,44.0,,,,True,
+NCAA,401856568,True,False,2400,2400,64.0,,,,False,scoring or possession lineup discrepancy | player minutes exceed tolerance
+NCAA,401856569,True,False,2400,2400,50.0,,,,False,scoring or possession lineup discrepancy
+NCAA,401856570,True,True,2400,2400,55.0,,,,True,
+NCAA,401856571,True,True,2400,2400,61.0,,,,False,player minutes exceed tolerance
+NCAA,401856572,True,True,2400,2400,70.0,,,,False,player minutes exceed tolerance
+NCAA,401856573,True,True,2400,2400,46.0,,,,True,
+NCAA,401856574,True,True,2400,2400,59.0,,,,True,
+NCAA,401856575,True,False,2400,1200,1193.0,,,,False,scoring or possession lineup discrepancy | incomplete lineup clock | player minutes exceed tolerance
+NCAA,401856576,True,True,2400,2400,74.0,,,,False,player minutes exceed tolerance
+NCAA,401856577,True,True,2400,2400,71.0,,,,False,player minutes exceed tolerance
+NCAA,401856598,True,True,2400,2400,69.0,,,,False,player minutes exceed tolerance
+NCAA,401856599,True,True,2400,2400,64.0,,,,False,player minutes exceed tolerance
+NCAA,401856600,True,True,2400,2400,75.0,,,,False,player minutes exceed tolerance

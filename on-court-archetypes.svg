@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="674" viewBox="0 0 900 674" role="img" aria-labelledby="title description">
+<title id="title">Postseason on-court net rating by earned archetype</title>
+<desc id="description">Bars show how each champion’s on-court net rating compared with eligible contenders in the 2025–26 pilot. The chart also reports champion minutes, share of court time, and offensive and defensive possessions.</desc>
+<rect width="100%" height="100%" fill="#fff"/>
+<g font-family="system-ui,sans-serif">
+<text x="28" y="35" font-size="24" fill="#172033" text-anchor="start" font-weight="700">Postseason on-court net rating by archetype</text>
+<text x="28" y="59" font-size="13" fill="#172033" text-anchor="start">2025–26 pilot · Champion minus eligible contender average · Points per 100 possessions</text>
+<text x="28" y="104" font-size="17" fill="#172033" text-anchor="start" font-weight="700">New York Knicks  ·  NBA</text>
+<text x="870" y="104" font-size="12" fill="#172033" text-anchor="end">Champion games validated: 19/19</text>
+<text x="28" y="136" font-size="11" fill="#172033" text-anchor="start" font-weight="700">Earned archetype</text>
+<text x="588" y="136" font-size="11" fill="#172033" text-anchor="end" font-weight="700">Gap</text>
+<text x="682" y="136" font-size="11" fill="#172033" text-anchor="end" font-weight="700">Minutes (%)</text>
+<text x="805" y="136" font-size="11" fill="#172033" text-anchor="end" font-weight="700">Off / def poss.</text>
+<text x="870" y="136" font-size="11" fill="#172033" text-anchor="end" font-weight="700">Peers</text>
+<line x1="200.00" x2="200.00" y1="142" y2="321" stroke="#e7eaf0"/>
+<text x="200.00" y="136" font-size="10" fill="#172033" text-anchor="middle">-30</text>
+<line x1="256.67" x2="256.67" y1="142" y2="321" stroke="#e7eaf0"/>
+<text x="256.67" y="136" font-size="10" fill="#172033" text-anchor="middle">-20</text>
+<line x1="313.33" x2="313.33" y1="142" y2="321" stroke="#e7eaf0"/>
+<text x="313.33" y="136" font-size="10" fill="#172033" text-anchor="middle">-10</text>
+<line x1="370.00" x2="370.00" y1="142" y2="321" stroke="#8994a7"/>
+<text x="370.00" y="136" font-size="10" fill="#172033" text-anchor="middle">0</text>
+<line x1="426.67" x2="426.67" y1="142" y2="321" stroke="#e7eaf0"/>
+<text x="426.67" y="136" font-size="10" fill="#172033" text-anchor="middle">+10</text>
+<line x1="483.33" x2="483.33" y1="142" y2="321" stroke="#e7eaf0"/>
+<text x="483.33" y="136" font-size="10" fill="#172033" text-anchor="middle">+20</text>
+<line x1="540.00" x2="540.00" y1="142" y2="321" stroke="#e7eaf0"/>
+<text x="540.00" y="136" font-size="10" fill="#172033" text-anchor="middle">+30</text>
+<g><title>High-volume shooter · Champion net rating +17.7 · Contender average -7.4 · Gap +25.1 points per 100 possessions</title>
+<text x="28" y="162" font-size="13" fill="#172033" text-anchor="start">High-volume shooter</text>
+<rect x="370.00" y="152" width="142.18" height="12" fill="#176b70"/>
+<text x="588" y="162" font-size="13" fill="#172033" text-anchor="end" font-weight="700">+25.1</text>
+<text x="682" y="162" font-size="12" fill="#172033" text-anchor="end">521.0 (57%)</text>
+<text x="805" y="162" font-size="12" fill="#172033" text-anchor="end">1,031 / 1,037</text>
+<text x="870" y="162" font-size="12" fill="#172033" text-anchor="end">13</text>
+</g>
+<g><title>Secondary facilitator · Champion net rating +20.9 · Contender average -4.2 · Gap +25.0 points per 100 possessions</title>
+<text x="28" y="192" font-size="13" fill="#172033" text-anchor="start">Secondary facilitator</text>
+<rect x="370.00" y="182" width="141.72" height="12" fill="#176b70"/>
+<text x="588" y="192" font-size="13" fill="#172033" text-anchor="end" font-weight="700">+25.0</text>
+<text x="682" y="192" font-size="12" fill="#172033" text-anchor="end">210.6 (23%)</text>
+<text x="805" y="192" font-size="12" fill="#172033" text-anchor="end">402 / 408</text>
+<text x="870" y="192" font-size="12" fill="#172033" text-anchor="end">11</text>
+</g>
+<g><title>Primary facilitator · Champion net rating +16.2 · Contender average -5.9 · Gap +22.1 points per 100 possessions</title>
+<text x="28" y="222" font-size="13" fill="#172033" text-anchor="start">Primary facilitator</text>
+<rect x="370.00" y="212" width="125.01" height="12" fill="#176b70"/>
+<text x="588" y="222" font-size="13" fill="#172033" text-anchor="end" font-weight="700">+22.1</text>
+<text x="682" y="222" font-size="12" fill="#172033" text-anchor="end">701.5 (76%)</text>
+<text x="805" y="222" font-size="12" fill="#172033" text-anchor="end">1,394 / 1,386</text>
+<text x="870" y="222" font-size="12" fill="#172033" text-anchor="end">6</text>
+</g>
+<g><title>Rebound specialist · Champion net rating +17.1 · Contender average -4.8 · Gap +21.9 points per 100 possessions</title>
+<text x="28" y="252" font-size="13" fill="#172033" text-anchor="start">Rebound specialist</text>
+<rect x="370.00" y="242" width="123.99" height="12" fill="#176b70"/>
+<text x="588" y="252" font-size="13" fill="#172033" text-anchor="end" font-weight="700">+21.9</text>
+<text x="682" y="252" font-size="12" fill="#172033" text-anchor="end">850.6 (93%)</text>
+<text x="805" y="252" font-size="12" fill="#172033" text-anchor="end">1,672 / 1,674</text>
+<text x="870" y="252" font-size="12" fill="#172033" text-anchor="end">13</text>
+</g>
+<g><title>Shot blocker · Champion net rating +17.5 · Contender average -4.3 · Gap +21.9 points per 100 possessions</title>
+<text x="28" y="282" font-size="13" fill="#172033" text-anchor="start">Shot blocker</text>
+<rect x="370.00" y="272" width="123.93" height="12" fill="#176b70"/>
+<text x="588" y="282" font-size="13" fill="#172033" text-anchor="end" font-weight="700">+21.9</text>
+<text x="682" y="282" font-size="12" fill="#172033" text-anchor="end">608.2 (66%)</text>
+<text x="805" y="282" font-size="12" fill="#172033" text-anchor="end">1,190 / 1,203</text>
+<text x="870" y="282" font-size="12" fill="#172033" text-anchor="end">14</text>
+</g>
+<g><title>Stretch big · Champion net rating -12.5 · Contender average +0.3 · Gap -12.8 points per 100 possessions</title>
+<text x="28" y="312" font-size="13" fill="#172033" text-anchor="start">Stretch big</text>
+<rect x="297.18" y="302" width="72.82" height="12" fill="#a86440"/>
+<text x="588" y="312" font-size="13" fill="#172033" text-anchor="end" font-weight="700">-12.8</text>
+<text x="682" y="312" font-size="12" fill="#172033" text-anchor="end">42.6 (5%)</text>
+<text x="805" y="312" font-size="12" fill="#172033" text-anchor="end">87 / 88</text>
+<text x="870" y="312" font-size="12" fill="#172033" text-anchor="end">5</text>
+</g>
+<text x="28" y="369" font-size="17" fill="#172033" text-anchor="start" font-weight="700">Michigan Wolverines  ·  NCAA</text>
+<text x="870" y="369" font-size="12" fill="#172033" text-anchor="end">Champion games validated: 1/6</text>
+<text x="28" y="401" font-size="11" fill="#172033" text-anchor="start" font-weight="700">Earned archetype</text>
+<text x="588" y="401" font-size="11" fill="#172033" text-anchor="end" font-weight="700">Gap</text>
+<text x="682" y="401" font-size="11" fill="#172033" text-anchor="end" font-weight="700">Minutes (%)</text>
+<text x="805" y="401" font-size="11" fill="#172033" text-anchor="end" font-weight="700">Off / def poss.</text>
+<text x="870" y="401" font-size="11" fill="#172033" text-anchor="end" font-weight="700">Peers</text>
+<line x1="200.00" x2="200.00" y1="407" y2="586" stroke="#e7eaf0"/>
+<text x="200.00" y="401" font-size="10" fill="#172033" text-anchor="middle">-30</text>
+<line x1="256.67" x2="256.67" y1="407" y2="586" stroke="#e7eaf0"/>
+<text x="256.67" y="401" font-size="10" fill="#172033" text-anchor="middle">-20</text>
+<line x1="313.33" x2="313.33" y1="407" y2="586" stroke="#e7eaf0"/>
+<text x="313.33" y="401" font-size="10" fill="#172033" text-anchor="middle">-10</text>
+<line x1="370.00" x2="370.00" y1="407" y2="586" stroke="#8994a7"/>
+<text x="370.00" y="401" font-size="10" fill="#172033" text-anchor="middle">0</text>
+<line x1="426.67" x2="426.67" y1="407" y2="586" stroke="#e7eaf0"/>
+<text x="426.67" y="401" font-size="10" fill="#172033" text-anchor="middle">+10</text>
+<line x1="483.33" x2="483.33" y1="407" y2="586" stroke="#e7eaf0"/>
+<text x="483.33" y="401" font-size="10" fill="#172033" text-anchor="middle">+20</text>
+<line x1="540.00" x2="540.00" y1="407" y2="586" stroke="#e7eaf0"/>
+<text x="540.00" y="401" font-size="10" fill="#172033" text-anchor="middle">+30</text>
+<g><title>High-volume shooter · Champion net rating +30.1 · Contender average +13.6 · Gap +16.6 points per 100 possessions</title>
+<text x="28" y="427" font-size="13" fill="#172033" text-anchor="start">High-volume shooter</text>
+<rect x="370.00" y="417" width="93.90" height="12" fill="#176b70"/>
+<text x="588" y="427" font-size="13" fill="#172033" text-anchor="end" font-weight="700">+16.6</text>
+<text x="682" y="427" font-size="12" fill="#172033" text-anchor="end">40.0 (100%)</text>
+<text x="805" y="427" font-size="12" fill="#172033" text-anchor="end">73 / 72</text>
+<text x="870" y="427" font-size="12" fill="#172033" text-anchor="end">7</text>
+</g>
+<g><title>Stretch big · Champion net rating +30.8 · Contender average +15.1 · Gap +15.7 points per 100 possessions</title>
+<text x="28" y="457" font-size="13" fill="#172033" text-anchor="start">Stretch big</text>
+<rect x="370.00" y="447" width="88.85" height="12" fill="#176b70"/>
+<text x="588" y="457" font-size="13" fill="#172033" text-anchor="end" font-weight="700">+15.7</text>
+<text x="682" y="457" font-size="12" fill="#172033" text-anchor="end">35.5 (89%)</text>
+<text x="805" y="457" font-size="12" fill="#172033" text-anchor="end">65 / 64</text>
+<text x="870" y="457" font-size="12" fill="#172033" text-anchor="end">5</text>
+</g>
+<g><title>Passing big · Champion net rating +30.4 · Contender average +16.5 · Gap +13.9 points per 100 possessions</title>
+<text x="28" y="487" font-size="13" fill="#172033" text-anchor="start">Passing big</text>
+<rect x="370.00" y="477" width="78.60" height="12" fill="#176b70"/>
+<text x="588" y="487" font-size="13" fill="#172033" text-anchor="end" font-weight="700">+13.9</text>
+<text x="682" y="487" font-size="12" fill="#172033" text-anchor="end">37.4 (93%)</text>
+<text x="805" y="487" font-size="12" fill="#172033" text-anchor="end">69 / 68</text>
+<text x="870" y="487" font-size="12" fill="#172033" text-anchor="end">9</text>
+</g>
+<g><title>Rebound specialist · Champion net rating +26.4 · Contender average +19.8 · Gap +6.6 points per 100 possessions</title>
+<text x="28" y="517" font-size="13" fill="#172033" text-anchor="start">Rebound specialist</text>
+<rect x="370.00" y="507" width="37.34" height="12" fill="#176b70"/>
+<text x="588" y="517" font-size="13" fill="#172033" text-anchor="end" font-weight="700">+6.6</text>
+<text x="682" y="517" font-size="12" fill="#172033" text-anchor="end">39.2 (98%)</text>
+<text x="805" y="517" font-size="12" fill="#172033" text-anchor="end">72 / 71</text>
+<text x="870" y="517" font-size="12" fill="#172033" text-anchor="end">12</text>
+</g>
+<g><title>Primary facilitator · Champion net rating +19.1 · Contender average +20.0 · Gap -0.9 points per 100 possessions</title>
+<text x="28" y="547" font-size="13" fill="#172033" text-anchor="start">Primary facilitator</text>
+<rect x="364.79" y="537" width="5.21" height="12" fill="#a86440"/>
+<text x="588" y="547" font-size="13" fill="#172033" text-anchor="end" font-weight="700">-0.9</text>
+<text x="682" y="547" font-size="12" fill="#172033" text-anchor="end">37.0 (93%)</text>
+<text x="805" y="547" font-size="12" fill="#172033" text-anchor="end">68 / 67</text>
+<text x="870" y="547" font-size="12" fill="#172033" text-anchor="end">10</text>
+</g>
+<g><title>Shot blocker · Champion net rating +23.1 · Contender average +26.8 · Gap -3.7 points per 100 possessions</title>
+<text x="28" y="577" font-size="13" fill="#172033" text-anchor="start">Shot blocker</text>
+<rect x="349.26" y="567" width="20.74" height="12" fill="#a86440"/>
+<text x="588" y="577" font-size="13" fill="#172033" text-anchor="end" font-weight="700">-3.7</text>
+<text x="682" y="577" font-size="12" fill="#172033" text-anchor="end">35.4 (88%)</text>
+<text x="805" y="577" font-size="12" fill="#172033" text-anchor="end">65 / 64</text>
+<text x="870" y="577" font-size="12" fill="#172033" text-anchor="end">10</text>
+</g>
+<text x="28" y="625" font-size="12" fill="#172033" text-anchor="start">Validated games only. Minutes and possession counts describe the champion sample.</text>
+<text x="28" y="645" font-size="12" fill="#172033" text-anchor="start">Roles can overlap. Peers counts the eligible contenders for each row (up to 15).</text>
+</g></svg>

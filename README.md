@@ -25,6 +25,11 @@ The historical files cover 20 NBA playoff fields and 19 NCAA Sweet 16 fields fro
 
 ## On-court plus-minus pilot
 
-The [2025–26 coverage audit](on_court_coverage.csv) checks whether possession scoring and lineup time agree with the box scores. NBA possession scoring reconciled in all 85 playoff games, but the clock-to-lineup join missed the five-second player-minute tolerance in every game. For the 27-game NCAA sample, possession scoring reconciled in 24 games, and the published stint durations left gaps in game-clock coverage. The plus-minus charts are pending clock reconstruction and player-minute validation.
+![2025–26 champion net rating gaps by earned archetype, with on-court minutes, court-time shares, possession counts, and eligible contender counts](on-court-archetypes.svg)
 
-See the [audit inputs and method](On%20Court%20Pilot.md).
+Bars show the champion's on-court net rating for each role minus the average of eligible contenders, in points per 100 possessions. Minutes count time with at least one player of the role on the floor. Each team needs at least 30 offensive and 30 defensive possessions for a role to enter the comparison.
+
+- **NBA:** All 85 playoff games passed the team scoring and clock checks, including all 19 Knicks games.
+- **NCAA:** 25 of 67 tournament games passed, including 20 games involving a Sweet 16 team. Michigan's panel covers its second-round game against Saint Louis. The college panel is a partial sample.
+
+[Team role results](on_court_team_roles.csv) · [Champion comparisons](on_court_role_comparison.csv) · [Team coverage](on_court_team_coverage.csv) · [Game audit](on_court_reconstruction_audit.csv) · [Method](On%20Court%20Pilot.md)
