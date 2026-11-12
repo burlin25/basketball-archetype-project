@@ -22,3 +22,9 @@ The historical files cover 20 NBA playoff fields and 19 NCAA Sweet 16 fields fro
 - [Player archetypes, confidence ratings, and earned roles](historical_archetypes.csv)
 - [Postseason teams and outcomes](historical_postseason_teams.csv)
 - [Historical data sources and reproduction steps](Historical%20Data.md)
+
+## On-court plus-minus pilot
+
+The [2025–26 coverage audit](on_court_coverage.csv) checks whether possession scoring and lineup time agree with the box scores. NBA possession scoring reconciled in all 85 playoff games, but the clock-to-lineup join missed the five-second player-minute tolerance in every game. For the 27-game NCAA sample, possession scoring reconciled in 24 games, and the published stint durations left gaps in game-clock coverage. The plus-minus charts are pending clock reconstruction and player-minute validation.
+
+See the [audit inputs and method](On%20Court%20Pilot.md).
